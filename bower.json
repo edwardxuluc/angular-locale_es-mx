@@ -1,15 +1,18 @@
 {
-  "name": "angular-locale_es-mx",
-  "main": "angular-locale_es-mx.js",
-  "version": "0.0.1",
-  "authors": [
-    "Edward Xuluc <eddy_1304@hotmail.com>"
-  ],
-  "description": "traduccion espanol mexico",
+  "name": "angular_locale_es-mx",
+  "description": "traduccion al español de mexico",
+  "main": "angular_locale_es_mx.js",
   "moduleType": [
+    "amd"
   ],
   "keywords": [
-    "locale", "Español", "Mexico"
+    "locale",
+    "mexico",
+    "español"
+  ],
+  "authors": [
+    "Edward Paulino Xuluc"
   ],
   "license": "MIT",
+  "homepage": ""
 }
