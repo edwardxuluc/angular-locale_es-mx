@@ -21,23 +21,23 @@ $provide.value("$locale", {
       "despu\u00e9s de Cristo"
     ],
     "ERAS": [
-      "a. C.",
-      "d. C."
+      "A.C.",
+      "D.C."
     ],
     "FIRSTDAYOFWEEK": 6,
     "MONTH": [
-      "enero",
-      "febrero",
-      "marzo",
-      "abril",
-      "mayo",
-      "junio",
-      "julio",
-      "agosto",
-      "septiembre",
-      "octubre",
-      "noviembre",
-      "diciembre"
+      "Enero",
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre",
+      "Octubre",
+      "Noviembre",
+      "Diciembre"
     ],
     "SHORTDAY": [
       "dom.",
@@ -49,18 +49,18 @@ $provide.value("$locale", {
       "s\u00e1b."
     ],
     "SHORTMONTH": [
-      "ene",
-      "feb",
-      "mar",
-      "abr",
-      "may",
-      "jun",
-      "jul",
-      "ago",
-      "sep",
-      "oct",
-      "nov",
-      "dic"
+      "Ene",
+      "Feb",
+      "Mar",
+      "Abr",
+      "May",
+      "Jun",
+      "Jul",
+      "Ago",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dic"
     ],
     "STANDALONEMONTH": [
       "Enero",
